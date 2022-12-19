@@ -1,0 +1,34 @@
+
+============
+项目质量管理
+============
+
+概述
+----
+
+.. include:: /doc/2017.itpmp.3rd.tables/C08.01.输入.工具及技术.输出.rst
+
+
+规划质量管理
+------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C08.01.规划质量管理.数据流图.png
+   :align: center
+   :alt: 规划质量管理.数据流图
+
+
+实施质量保证
+------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C08.02.实施质量保证.数据流图.png
+   :align: center
+   :alt: 实施质量保证.数据流图
+
+
+控制质量
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C08.03.控制质量.数据流图.png
+   :align: center
+   :alt: 控制质量.数据流图
+

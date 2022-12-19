@@ -1,0 +1,58 @@
+
+============
+项目风险管理
+============
+
+概述
+----
+
+.. include:: /doc/2017.itpmp.3rd.tables/C11.01.输入.工具及技术.输出.rst
+
+
+规划风险管理
+------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C11.01.规划风险管理.数据流图.png
+   :align: center
+   :alt: 规划风险管理.数据流图
+
+
+识别风险
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C11.02.识别风险.数据流图.png
+   :align: center
+   :alt: 识别风险.数据流图
+
+
+实施风险定性分析
+----------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C11.03.实施风险定性分析.数据流图.png
+   :align: center
+   :alt: 实施风险定性分析.数据流图
+
+
+实施风险定量分析
+----------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C11.04.实施风险定量分析.数据流图.png
+   :align: center
+   :alt: 实施风险定量分析.数据流图
+
+
+风险应对规划
+------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C11.05.风险应对规划.数据流图.png
+   :align: center
+   :alt: 风险应对规划.数据流图
+
+
+控制风险
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C11.06.控制风险.数据流图.png
+   :align: center
+   :alt: 控制风险.数据流图
+

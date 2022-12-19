@@ -1,0 +1,41 @@
+
+============
+项目采购管理
+============
+
+概述
+----
+
+.. include:: /doc/2017.itpmp.3rd.tables/C12.01.输入.工具及技术.输出.rst
+
+
+规划采购
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C12.01.规划采购.数据流图.png
+   :align: center
+   :alt: 规划采购.数据流图
+
+
+实施采购
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C12.02.实施采购.数据流图.png
+   :align: center
+   :alt: 实施采购.数据流图
+
+
+控制采购
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C12.03.控制采购.数据流图.png
+   :align: center
+   :alt: 控制采购.数据流图
+
+
+结束采购
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C12.04.结束采购.数据流图.png
+   :align: center
+   :alt: 结束采购.数据流图

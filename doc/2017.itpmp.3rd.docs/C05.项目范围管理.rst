@@ -1,0 +1,57 @@
+
+============
+项目范围管理
+============
+
+概述
+----
+
+.. include:: /doc/2017.itpmp.3rd.tables/C05.01.输入.工具及技术.输出.rst
+
+
+规划范围管理
+------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C05.01.规划范围管理.数据流图.png
+   :align: center
+   :alt: 规划范围管理.数据流图
+
+
+收集需求
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C05.02.收集需求.数据流图.png
+   :align: center
+   :alt: 收集需求.数据流图
+
+
+定义范围
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C05.03.定义范围.数据流图.png
+   :align: center
+   :alt: 定义范围.数据流图
+
+
+创建WBS
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C05.04.创建WBS.数据流图.png
+   :align: center
+   :alt: 创建WBS.数据流图
+
+
+确认范围
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C05.05.确认范围.数据流图.png
+   :align: center
+   :alt: 确认范围.数据流图
+
+
+控制范围
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C05.06.控制范围.数据流图.png
+   :align: center
+   :alt: 控制范围.数据流图

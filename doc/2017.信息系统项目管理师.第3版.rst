@@ -1,0 +1,14 @@
+
+信息系统项目管理师-第3版
+=========================
+
+.. include:: 2017.itpmp.3rd.docs/C04.项目整体管理.rst
+.. include:: 2017.itpmp.3rd.docs/C05.项目范围管理.rst
+.. include:: 2017.itpmp.3rd.docs/C06.项目进度管理.rst
+.. include:: 2017.itpmp.3rd.docs/C07.项目成本管理.rst
+.. include:: 2017.itpmp.3rd.docs/C08.项目质量管理.rst
+.. include:: 2017.itpmp.3rd.docs/C09.项目人资管理.rst
+.. include:: 2017.itpmp.3rd.docs/C10.项目干系人管理.rst
+.. include:: 2017.itpmp.3rd.docs/C10.项目沟通管理.rst
+.. include:: 2017.itpmp.3rd.docs/C11.项目风险管理.rst
+.. include:: 2017.itpmp.3rd.docs/C12.项目采购管理.rst

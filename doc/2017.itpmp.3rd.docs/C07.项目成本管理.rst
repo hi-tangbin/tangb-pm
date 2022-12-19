@@ -1,0 +1,41 @@
+
+============
+项目成本管理
+============
+
+概述
+----
+
+.. include:: /doc/2017.itpmp.3rd.tables/C07.01.输入.工具及技术.输出.rst
+
+
+规划成本管理
+------------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C07.01.规划成本管理.数据流图.png
+   :align: center
+   :alt: 规划成本管理.数据流图
+
+
+估算成本
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C07.02.估算成本.数据流图.png
+   :align: center
+   :alt: 估算成本.数据流图
+
+
+制订预算
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C07.03.制订预算.数据流图.png
+   :align: center
+   :alt: 制订预算.数据流图
+
+
+控制成本
+--------
+
+.. image:: /img/2017.itpmp.3rd.DFD/C07.04.控制成本.数据流图.png
+   :align: center
+   :alt: 控制成本.数据流图
