@@ -13,3 +13,7 @@
 .. include:: 2023.itpmp.4th.docs/C15.项目风险管理.rst
 .. include:: 2023.itpmp.4th.docs/C16.项目采购管理.rst
 .. include:: 2023.itpmp.4th.docs/C17.项目干系人管理.rst
+
+.. include:: 2017.pmbok.6th/PMBOK.6th.术语.基本概念.rst
+.. include:: 2017.pmbok.6th/PMBOK.6th.术语.工具和技术.rst
+.. include:: 2017.pmbok.6th/PMBOK.6th.术语.挣值概念.rst
