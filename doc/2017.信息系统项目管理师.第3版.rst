@@ -2,6 +2,7 @@
 信息系统项目管理师-第3版
 =========================
 
+.. include:: 2017.itpmp.3rd.docs/C00.项目管理概览.rst
 .. include:: 2017.itpmp.3rd.docs/C04.项目整体管理.rst
 .. include:: 2017.itpmp.3rd.docs/C05.项目范围管理.rst
 .. include:: 2017.itpmp.3rd.docs/C06.项目进度管理.rst
